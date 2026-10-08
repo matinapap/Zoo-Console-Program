@@ -1,2 +1,0 @@
-flamingo,8.0,omnivorous,birds,5,100,yes
-tigger,80.0,herbivore,mammals,30,101,yes

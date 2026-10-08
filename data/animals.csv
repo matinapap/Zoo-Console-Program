@@ -1,0 +1,7 @@
+code,name,class,diet,max_age,weight_kg,wild
+100,flamingo,bird,omnivore,40,3.5,true
+101,tiger,mammal,carnivore,20,220.0,true
+102,red panda,mammal,herbivore,14,5.0,true
+103,green iguana,reptile,herbivore,20,4.0,true
+104,goat,mammal,herbivore,18,60.0,false
+105,clownfish,fish,omnivore,8,0.25,true
